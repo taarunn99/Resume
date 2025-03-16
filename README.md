@@ -5,7 +5,7 @@ Passionate software engineer specializing in the MERN stack, building scalable a
 
 ## Contact
 📩 **Email:** [agmnwosgr@gmail.com]  
-🔗 **LinkedIn:** [[Profile]((https://www.linkedin.com/in/tarun-shukla-941054329/))]  
+🔗 **LinkedIn:** [[Profile](https://www.linkedin.com/in/tarun-shukla-941054329/)]  
 🐙 **GitHub:** [taarunn99]  
 🌐 **Portfolio:** [[Your Portfolio Link](https://bento.me/taarunn)]  
 
